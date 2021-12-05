@@ -19,6 +19,6 @@ public class Sum {
         while(iterator.hasNext()){
             sum=sum+iterator.next();
         }
-        System.out.println("sum of all elements in list is: "+sum);
+        System.out.println("sum of all elements in list is : "+sum);
     }
 }
